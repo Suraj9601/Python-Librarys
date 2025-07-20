@@ -1,0 +1,66 @@
+[
+    {
+        "StudentID": 101,
+        "Name": "Alice",
+        "Age": 20,
+        "Gender": "Female",
+        "Marks": 85,
+        "Grade": "A"
+    },
+    {
+        "StudentID": 102,
+        "Name": "Bob",
+        "Age": 21,
+        "Gender": "Male",
+        "Marks": 78,
+        "Grade": "B"
+    },
+    {
+        "StudentID": 103,
+        "Name": "Charlie",
+        "Age": 22,
+        "Gender": "Male",
+        "Marks": 92,
+        "Grade": "A"
+    },
+    {
+        "StudentID": 104,
+        "Name": "Diana",
+        "Age": 20,
+        "Gender": "Female",
+        "Marks": 67,
+        "Grade": "C"
+    },
+    {
+        "StudentID": 105,
+        "Name": "Ethan",
+        "Age": 23,
+        "Gender": "Male",
+        "Marks": 74,
+        "Grade": "B"
+    },
+    {
+        "StudentID": 106,
+        "Name": "Fiona",
+        "Age": 21,
+        "Gender": "Female",
+        "Marks": 88,
+        "Grade": "A"
+    },
+    {
+        "StudentID": 107,
+        "Name": "George",
+        "Age": 22,
+        "Gender": "Male",
+        "Marks": 59,
+        "Grade": "D"
+    },
+    {
+        "StudentID": 108,
+        "Name": "Hannah",
+        "Age": 20,
+        "Gender": "Female",
+        "Marks": 95,
+        "Grade": "A"
+    }
+]
