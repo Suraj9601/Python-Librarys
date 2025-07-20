@@ -1,0 +1,7 @@
+To find : 
+count of rows and columns 
+what type data
+missing data ?
+
+use info() method
+
