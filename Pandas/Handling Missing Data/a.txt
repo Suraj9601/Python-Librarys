@@ -1,0 +1,22 @@
+NaN (Not a Number)
+None (for object datatype)
+
+
+isnull() is a method 
+True - NaN is missing 
+False - Value is present
+
+# Missing Values # interpolution
+10              10
+20              20
+NaN     to      30
+40              40
+50              50
+
+linear 
+
+1. preserve data integrity
+2. smooth trends
+3. avoid data loss 
+
+interpolate()
