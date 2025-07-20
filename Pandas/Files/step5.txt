@@ -1,0 +1,16 @@
+select specific column 
+filter rows 
+combine multiple conditions
+
+selcting columns 
+returns a series or datafram for multi columns
+
+column = df["column-name"]
+subset = df["column1", column2]
+
+filteing rows : 
+ #based on single conditions
+ filter-row = df[df["salary]> 50000]
+
+ #multi conditions
+ filter-rows = df[(df["column1"]> value1),(df["column2"]> value2) ]
